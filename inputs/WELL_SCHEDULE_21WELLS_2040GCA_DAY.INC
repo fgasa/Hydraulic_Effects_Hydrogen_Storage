@@ -1,0 +1,9490 @@
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   99289.75   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   99289.75   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   99289.75   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   99289.75   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   99289.75   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   99289.75   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   99289.75   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   99289.75   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   99289.75   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   99289.75   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   99289.75   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   99289.75   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   99289.75   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   99289.75   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   99289.75   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   99289.75   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   99289.75   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   99289.75   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   99289.75   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   99289.75   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   99289.75   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  921210.65  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  921210.65  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  921210.65  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  921210.65  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  921210.65  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  921210.65  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  921210.65  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  921210.65  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  921210.65  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  921210.65  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  921210.65  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  921210.65  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  921210.65  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  921210.65  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  921210.65  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  921210.65  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  921210.65  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  921210.65  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  921210.65  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  921210.65  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  921210.65  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1496884.58  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1496884.58  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1496884.58  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1496884.58  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1496884.58  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1496884.58  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1496884.58  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1496884.58  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1496884.58  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1496884.58  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1496884.58  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1496884.58  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1496884.58  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1496884.58  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1496884.58  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1496884.58  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1496884.58  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1496884.58  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1496884.58  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1496884.58  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1496884.58  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  2170427.76  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  2170427.76  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  2170427.76  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  2170427.76  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  2170427.76  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  2170427.76  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  2170427.76  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  2170427.76  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  2170427.76  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  2170427.76  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  2170427.76  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  2170427.76  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  2170427.76  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  2170427.76  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  2170427.76  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  2170427.76  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  2170427.76  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  2170427.76  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  2170427.76  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  2170427.76  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  2170427.76  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  2534689.27  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  2534689.27  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  2534689.27  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  2534689.27  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  2534689.27  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  2534689.27  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  2534689.27  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  2534689.27  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  2534689.27  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  2534689.27  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  2534689.27  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  2534689.27  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  2534689.27  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  2534689.27  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  2534689.27  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  2534689.27  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  2534689.27  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  2534689.27  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  2534689.27  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  2534689.27  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  2534689.27  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1010799.03  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1010799.03  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1010799.03  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1010799.03  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1010799.03  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1010799.03  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1010799.03  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1010799.03  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1010799.03  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1010799.03  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1010799.03  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1010799.03  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1010799.03  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1010799.03  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1010799.03  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1010799.03  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1010799.03  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1010799.03  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1010799.03  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1010799.03  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1010799.03  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1269120.26  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1269120.26  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1269120.26  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1269120.26  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1269120.26  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1269120.26  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1269120.26  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1269120.26  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1269120.26  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1269120.26  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1269120.26  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1269120.26  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1269120.26  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1269120.26  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1269120.26  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1269120.26  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1269120.26  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1269120.26  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1269120.26  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1269120.26  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1269120.26  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1745294.59  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1745294.59  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1745294.59  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1745294.59  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1745294.59  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1745294.59  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1745294.59  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1745294.59  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1745294.59  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1745294.59  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1745294.59  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1745294.59  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1745294.59  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1745294.59  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1745294.59  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1745294.59  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1745294.59  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1745294.59  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1745294.59  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1745294.59  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1745294.59  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1597288.14  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1597288.14  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1597288.14  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1597288.14  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1597288.14  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1597288.14  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1597288.14  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1597288.14  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1597288.14  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1597288.14  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1597288.14  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1597288.14  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1597288.14  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1597288.14  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1597288.14  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1597288.14  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1597288.14  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1597288.14  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1597288.14  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1597288.14  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1597288.14  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  80968.52  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  80968.52  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  80968.52  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  80968.52  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  80968.52  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  80968.52  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  80968.52  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  80968.52  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  80968.52  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  80968.52  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  80968.52  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  80968.52  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  80968.52  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  80968.52  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  80968.52  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  80968.52  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  80968.52  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  80968.52  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  80968.52  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  80968.52  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  80968.52  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1360968.52  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1360968.52  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1360968.52  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1360968.52  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1360968.52  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1360968.52  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1360968.52  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1360968.52  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1360968.52  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1360968.52  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1360968.52  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1360968.52  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1360968.52  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1360968.52  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1360968.52  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1360968.52  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1360968.52  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1360968.52  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1360968.52  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1360968.52  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1360968.52  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  3062179.18  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  3062179.18  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  3062179.18  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  3062179.18  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  3062179.18  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  3062179.18  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  3062179.18  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  3062179.18  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  3062179.18  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  3062179.18  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  3062179.18  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  3062179.18  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  3062179.18  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  3062179.18  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  3062179.18  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  3062179.18  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  3062179.18  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  3062179.18  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  3062179.18  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  3062179.18  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  3062179.18  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  150766.75  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  150766.75  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  150766.75  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  150766.75  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  150766.75  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  150766.75  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  150766.75  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  150766.75  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  150766.75  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  150766.75  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  150766.75  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  150766.75  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  150766.75  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  150766.75  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  150766.75  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  150766.75  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  150766.75  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  150766.75  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  150766.75  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  150766.75  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  150766.75  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   852703.79   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   852703.79   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   852703.79   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   852703.79   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   852703.79   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   852703.79   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   852703.79   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   852703.79   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   852703.79   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   852703.79   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   852703.79   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   852703.79   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   852703.79   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   852703.79   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   852703.79   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   852703.79   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   852703.79   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   852703.79   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   852703.79   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   852703.79   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   852703.79   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1091364.0   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1091364.0   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1091364.0   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1091364.0   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1091364.0   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1091364.0   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1091364.0   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1091364.0   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1091364.0   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1091364.0   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1091364.0   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1091364.0   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1091364.0   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1091364.0   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1091364.0   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1091364.0   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1091364.0   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1091364.0   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1091364.0   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1091364.0   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1091364.0   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   395367.23   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   395367.23   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   395367.23   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   395367.23   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   395367.23   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   395367.23   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   395367.23   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   395367.23   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   395367.23   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   395367.23   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   395367.23   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   395367.23   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   395367.23   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   395367.23   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   395367.23   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   395367.23   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   395367.23   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   395367.23   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   395367.23   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   395367.23   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   395367.23   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   345891.85   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   345891.85   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   345891.85   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   345891.85   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   345891.85   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   345891.85   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   345891.85   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   345891.85   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   345891.85   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   345891.85   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   345891.85   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   345891.85   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   345891.85   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   345891.85   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   345891.85   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   345891.85   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   345891.85   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   345891.85   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   345891.85   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   345891.85   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   345891.85   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  296981.44  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  296981.44  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  296981.44  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  296981.44  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  296981.44  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  296981.44  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  296981.44  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  296981.44  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  296981.44  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  296981.44  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  296981.44  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  296981.44  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  296981.44  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  296981.44  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  296981.44  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  296981.44  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  296981.44  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  296981.44  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  296981.44  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  296981.44  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  296981.44  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  257207.43  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  257207.43  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  257207.43  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  257207.43  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  257207.43  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  257207.43  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  257207.43  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  257207.43  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  257207.43  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  257207.43  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  257207.43  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  257207.43  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  257207.43  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  257207.43  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  257207.43  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  257207.43  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  257207.43  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  257207.43  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  257207.43  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  257207.43  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  257207.43  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  160677.97  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  160677.97  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  160677.97  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  160677.97  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  160677.97  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  160677.97  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  160677.97  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  160677.97  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  160677.97  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  160677.97  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  160677.97  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  160677.97  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  160677.97  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  160677.97  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  160677.97  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  160677.97  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  160677.97  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  160677.97  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  160677.97  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  160677.97  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  160677.97  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  33268.77  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  33268.77  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  33268.77  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  33268.77  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  33268.77  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  33268.77  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  33268.77  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  33268.77  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  33268.77  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  33268.77  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  33268.77  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  33268.77  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  33268.77  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  33268.77  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  33268.77  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  33268.77  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  33268.77  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  33268.77  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  33268.77  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  33268.77  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  33268.77  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   232752.22   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   232752.22   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   232752.22   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   232752.22   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   232752.22   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   232752.22   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   232752.22   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   232752.22   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   232752.22   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   232752.22   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   232752.22   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   232752.22   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   232752.22   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   232752.22   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   232752.22   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   232752.22   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   232752.22   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   232752.22   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   232752.22   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   232752.22   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   232752.22   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  870669.9  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  870669.9  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  870669.9  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  870669.9  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  870669.9  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  870669.9  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  870669.9  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  870669.9  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  870669.9  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  870669.9  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  870669.9  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  870669.9  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  870669.9  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  870669.9  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  870669.9  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  870669.9  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  870669.9  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  870669.9  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  870669.9  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  870669.9  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  870669.9  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1299725.59  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1299725.59  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1299725.59  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1299725.59  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1299725.59  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1299725.59  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1299725.59  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1299725.59  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1299725.59  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1299725.59  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1299725.59  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1299725.59  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1299725.59  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1299725.59  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1299725.59  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1299725.59  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1299725.59  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1299725.59  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1299725.59  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1299725.59  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1299725.59  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   154979.82   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   154979.82   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   154979.82   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   154979.82   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   154979.82   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   154979.82   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   154979.82   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   154979.82   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   154979.82   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   154979.82   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   154979.82   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   154979.82   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   154979.82   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   154979.82   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   154979.82   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   154979.82   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   154979.82   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   154979.82   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   154979.82   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   154979.82   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   154979.82   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   342485.88   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   342485.88   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   342485.88   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   342485.88   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   342485.88   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   342485.88   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   342485.88   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   342485.88   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   342485.88   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   342485.88   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   342485.88   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   342485.88   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   342485.88   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   342485.88   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   342485.88   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   342485.88   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   342485.88   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   342485.88   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   342485.88   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   342485.88   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   342485.88   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   228732.85   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   228732.85   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   228732.85   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   228732.85   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   228732.85   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   228732.85   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   228732.85   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   228732.85   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   228732.85   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   228732.85   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   228732.85   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   228732.85   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   228732.85   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   228732.85   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   228732.85   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   228732.85   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   228732.85   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   228732.85   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   228732.85   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   228732.85   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   228732.85   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   259661.02   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   259661.02   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   259661.02   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   259661.02   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   259661.02   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   259661.02   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   259661.02   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   259661.02   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   259661.02   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   259661.02   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   259661.02   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   259661.02   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   259661.02   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   259661.02   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   259661.02   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   259661.02   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   259661.02   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   259661.02   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   259661.02   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   259661.02   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   259661.02   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   315609.36   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   315609.36   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   315609.36   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   315609.36   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   315609.36   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   315609.36   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   315609.36   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   315609.36   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   315609.36   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   315609.36   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   315609.36   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   315609.36   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   315609.36   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   315609.36   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   315609.36   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   315609.36   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   315609.36   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   315609.36   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   315609.36   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   315609.36   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   315609.36   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   843018.56   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   843018.56   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   843018.56   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   843018.56   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   843018.56   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   843018.56   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   843018.56   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   843018.56   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   843018.56   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   843018.56   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   843018.56   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   843018.56   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   843018.56   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   843018.56   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   843018.56   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   843018.56   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   843018.56   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   843018.56   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   843018.56   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   843018.56   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   843018.56   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   740936.24   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   740936.24   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   740936.24   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   740936.24   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   740936.24   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   740936.24   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   740936.24   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   740936.24   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   740936.24   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   740936.24   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   740936.24   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   740936.24   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   740936.24   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   740936.24   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   740936.24   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   740936.24   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   740936.24   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   740936.24   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   740936.24   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   740936.24   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   740936.24   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   56045.2   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   56045.2   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   56045.2   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   56045.2   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   56045.2   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   56045.2   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   56045.2   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   56045.2   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   56045.2   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   56045.2   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   56045.2   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   56045.2   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   56045.2   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   56045.2   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   56045.2   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   56045.2   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   56045.2   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   56045.2   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   56045.2   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   56045.2   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   56045.2   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  145907.99  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  145907.99  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  145907.99  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  145907.99  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  145907.99  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  145907.99  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  145907.99  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  145907.99  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  145907.99  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  145907.99  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  145907.99  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  145907.99  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  145907.99  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  145907.99  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  145907.99  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  145907.99  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  145907.99  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  145907.99  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  145907.99  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  145907.99  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  145907.99  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1701210.65  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1701210.65  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1701210.65  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1701210.65  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1701210.65  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1701210.65  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1701210.65  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1701210.65  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1701210.65  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1701210.65  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1701210.65  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1701210.65  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1701210.65  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1701210.65  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1701210.65  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1701210.65  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1701210.65  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1701210.65  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1701210.65  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1701210.65  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1701210.65  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  159128.33  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  159128.33  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  159128.33  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  159128.33  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  159128.33  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  159128.33  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  159128.33  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  159128.33  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  159128.33  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  159128.33  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  159128.33  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  159128.33  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  159128.33  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  159128.33  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  159128.33  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  159128.33  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  159128.33  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  159128.33  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  159128.33  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  159128.33  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  159128.33  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   74947.54   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   74947.54   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   74947.54   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   74947.54   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   74947.54   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   74947.54   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   74947.54   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   74947.54   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   74947.54   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   74947.54   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   74947.54   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   74947.54   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   74947.54   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   74947.54   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   74947.54   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   74947.54   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   74947.54   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   74947.54   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   74947.54   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   74947.54   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   74947.54   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   59790.15   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   59790.15   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   59790.15   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   59790.15   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   59790.15   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   59790.15   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   59790.15   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   59790.15   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   59790.15   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   59790.15   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   59790.15   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   59790.15   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   59790.15   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   59790.15   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   59790.15   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   59790.15   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   59790.15   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   59790.15   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   59790.15   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   59790.15   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   59790.15   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   133688.46   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   133688.46   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   133688.46   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   133688.46   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   133688.46   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   133688.46   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   133688.46   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   133688.46   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   133688.46   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   133688.46   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   133688.46   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   133688.46   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   133688.46   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   133688.46   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   133688.46   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   133688.46   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   133688.46   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   133688.46   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   133688.46   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   133688.46   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   133688.46   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   22518.16   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   22518.16   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   22518.16   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   22518.16   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   22518.16   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   22518.16   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   22518.16   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   22518.16   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   22518.16   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   22518.16   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   22518.16   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   22518.16   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   22518.16   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   22518.16   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   22518.16   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   22518.16   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   22518.16   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   22518.16   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   22518.16   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   22518.16   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   22518.16   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   193026.63   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   193026.63   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   193026.63   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   193026.63   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   193026.63   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   193026.63   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   193026.63   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   193026.63   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   193026.63   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   193026.63   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   193026.63   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   193026.63   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   193026.63   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   193026.63   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   193026.63   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   193026.63   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   193026.63   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   193026.63   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   193026.63   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   193026.63   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   193026.63   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  678902.34  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  678902.34  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  678902.34  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  678902.34  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  678902.34  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  678902.34  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  678902.34  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  678902.34  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  678902.34  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  678902.34  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  678902.34  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  678902.34  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  678902.34  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  678902.34  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  678902.34  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  678902.34  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  678902.34  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  678902.34  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  678902.34  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  678902.34  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  678902.34  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  400548.83  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  400548.83  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  400548.83  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  400548.83  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  400548.83  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  400548.83  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  400548.83  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  400548.83  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  400548.83  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  400548.83  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  400548.83  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  400548.83  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  400548.83  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  400548.83  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  400548.83  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  400548.83  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  400548.83  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  400548.83  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  400548.83  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  400548.83  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  400548.83  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   387667.47   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   387667.47   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   387667.47   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   387667.47   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   387667.47   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   387667.47   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   387667.47   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   387667.47   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   387667.47   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   387667.47   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   387667.47   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   387667.47   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   387667.47   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   387667.47   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   387667.47   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   387667.47   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   387667.47   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   387667.47   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   387667.47   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   387667.47   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   387667.47   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   230282.49   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   230282.49   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   230282.49   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   230282.49   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   230282.49   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   230282.49   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   230282.49   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   230282.49   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   230282.49   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   230282.49   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   230282.49   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   230282.49   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   230282.49   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   230282.49   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   230282.49   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   230282.49   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   230282.49   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   230282.49   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   230282.49   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   230282.49   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   230282.49   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   267683.62   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   267683.62   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   267683.62   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   267683.62   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   267683.62   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   267683.62   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   267683.62   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   267683.62   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   267683.62   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   267683.62   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   267683.62   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   267683.62   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   267683.62   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   267683.62   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   267683.62   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   267683.62   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   267683.62   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   267683.62   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   267683.62   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   267683.62   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   267683.62   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   620694.11   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   620694.11   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   620694.11   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   620694.11   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   620694.11   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   620694.11   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   620694.11   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   620694.11   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   620694.11   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   620694.11   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   620694.11   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   620694.11   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   620694.11   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   620694.11   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   620694.11   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   620694.11   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   620694.11   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   620694.11   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   620694.11   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   620694.11   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   620694.11   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1277675.54   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1277675.54   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1277675.54   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1277675.54   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1277675.54   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1277675.54   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1277675.54   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1277675.54   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1277675.54   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1277675.54   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1277675.54   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1277675.54   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1277675.54   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1277675.54   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1277675.54   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1277675.54   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1277675.54   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1277675.54   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1277675.54   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1277675.54   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1277675.54   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   434156.58   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   434156.58   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   434156.58   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   434156.58   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   434156.58   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   434156.58   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   434156.58   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   434156.58   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   434156.58   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   434156.58   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   434156.58   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   434156.58   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   434156.58   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   434156.58   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   434156.58   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   434156.58   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   434156.58   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   434156.58   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   434156.58   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   434156.58   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   434156.58   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  27102.5  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  27102.5  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  27102.5  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  27102.5  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  27102.5  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  27102.5  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  27102.5  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  27102.5  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  27102.5  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  27102.5  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  27102.5  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  27102.5  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  27102.5  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  27102.5  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  27102.5  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  27102.5  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  27102.5  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  27102.5  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  27102.5  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  27102.5  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  27102.5  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  2422453.59  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  2422453.59  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  2422453.59  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  2422453.59  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  2422453.59  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  2422453.59  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  2422453.59  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  2422453.59  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  2422453.59  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  2422453.59  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  2422453.59  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  2422453.59  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  2422453.59  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  2422453.59  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  2422453.59  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  2422453.59  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  2422453.59  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  2422453.59  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  2422453.59  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  2422453.59  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  2422453.59  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  2549927.36  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  2549927.36  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  2549927.36  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  2549927.36  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  2549927.36  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  2549927.36  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  2549927.36  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  2549927.36  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  2549927.36  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  2549927.36  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  2549927.36  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  2549927.36  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  2549927.36  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  2549927.36  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  2549927.36  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  2549927.36  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  2549927.36  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  2549927.36  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  2549927.36  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  2549927.36  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  2549927.36  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  805133.17  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  805133.17  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  805133.17  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  805133.17  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  805133.17  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  805133.17  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  805133.17  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  805133.17  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  805133.17  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  805133.17  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  805133.17  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  805133.17  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  805133.17  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  805133.17  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  805133.17  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  805133.17  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  805133.17  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  805133.17  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  805133.17  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  805133.17  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  805133.17  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   188781.28   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   188781.28   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   188781.28   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   188781.28   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   188781.28   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   188781.28   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   188781.28   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   188781.28   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   188781.28   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   188781.28   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   188781.28   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   188781.28   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   188781.28   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   188781.28   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   188781.28   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   188781.28   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   188781.28   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   188781.28   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   188781.28   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   188781.28   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   188781.28   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  28942.7  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  28942.7  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  28942.7  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  28942.7  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  28942.7  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  28942.7  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  28942.7  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  28942.7  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  28942.7  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  28942.7  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  28942.7  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  28942.7  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  28942.7  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  28942.7  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  28942.7  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  28942.7  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  28942.7  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  28942.7  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  28942.7  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  28942.7  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  28942.7  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  41485.07  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  41485.07  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  41485.07  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  41485.07  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  41485.07  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  41485.07  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  41485.07  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  41485.07  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  41485.07  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  41485.07  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  41485.07  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  41485.07  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  41485.07  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  41485.07  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  41485.07  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  41485.07  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  41485.07  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  41485.07  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  41485.07  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  41485.07  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  41485.07  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   625359.16   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   625359.16   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   625359.16   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   625359.16   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   625359.16   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   625359.16   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   625359.16   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   625359.16   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   625359.16   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   625359.16   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   625359.16   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   625359.16   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   625359.16   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   625359.16   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   625359.16   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   625359.16   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   625359.16   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   625359.16   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   625359.16   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   625359.16   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   625359.16   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1142033.9   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1142033.9   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1142033.9   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1142033.9   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1142033.9   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1142033.9   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1142033.9   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1142033.9   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1142033.9   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1142033.9   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1142033.9   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1142033.9   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1142033.9   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1142033.9   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1142033.9   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1142033.9   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1142033.9   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1142033.9   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1142033.9   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1142033.9   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1142033.9   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1083567.39   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1083567.39   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1083567.39   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1083567.39   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1083567.39   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1083567.39   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1083567.39   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1083567.39   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1083567.39   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1083567.39   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1083567.39   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1083567.39   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1083567.39   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1083567.39   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1083567.39   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1083567.39   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1083567.39   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1083567.39   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1083567.39   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1083567.39   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1083567.39   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1714608.56  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1714608.56  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1714608.56  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1714608.56  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1714608.56  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1714608.56  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1714608.56  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1714608.56  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1714608.56  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1714608.56  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1714608.56  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1714608.56  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1714608.56  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1714608.56  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1714608.56  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1714608.56  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1714608.56  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1714608.56  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1714608.56  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1714608.56  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1714608.56  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  2006569.81  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  2006569.81  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  2006569.81  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  2006569.81  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  2006569.81  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  2006569.81  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  2006569.81  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  2006569.81  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  2006569.81  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  2006569.81  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  2006569.81  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  2006569.81  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  2006569.81  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  2006569.81  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  2006569.81  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  2006569.81  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  2006569.81  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  2006569.81  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  2006569.81  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  2006569.81  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  2006569.81  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  107393.06  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  107393.06  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  107393.06  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  107393.06  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  107393.06  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  107393.06  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  107393.06  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  107393.06  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  107393.06  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  107393.06  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  107393.06  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  107393.06  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  107393.06  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  107393.06  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  107393.06  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  107393.06  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  107393.06  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  107393.06  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  107393.06  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  107393.06  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  107393.06  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1260193.7  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1260193.7  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1260193.7  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1260193.7  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1260193.7  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1260193.7  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1260193.7  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1260193.7  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1260193.7  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1260193.7  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1260193.7  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1260193.7  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1260193.7  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1260193.7  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1260193.7  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1260193.7  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1260193.7  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1260193.7  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1260193.7  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1260193.7  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1260193.7  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  2053123.49  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  2053123.49  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  2053123.49  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  2053123.49  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  2053123.49  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  2053123.49  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  2053123.49  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  2053123.49  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  2053123.49  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  2053123.49  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  2053123.49  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  2053123.49  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  2053123.49  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  2053123.49  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  2053123.49  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  2053123.49  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  2053123.49  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  2053123.49  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  2053123.49  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  2053123.49  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  2053123.49  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  883163.84  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  883163.84  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  883163.84  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  883163.84  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  883163.84  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  883163.84  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  883163.84  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  883163.84  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  883163.84  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  883163.84  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  883163.84  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  883163.84  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  883163.84  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  883163.84  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  883163.84  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  883163.84  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  883163.84  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  883163.84  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  883163.84  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  883163.84  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  883163.84  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   743938.66   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   743938.66   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   743938.66   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   743938.66   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   743938.66   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   743938.66   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   743938.66   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   743938.66   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   743938.66   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   743938.66   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   743938.66   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   743938.66   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   743938.66   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   743938.66   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   743938.66   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   743938.66   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   743938.66   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   743938.66   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   743938.66   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   743938.66   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   743938.66   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   157255.85   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   157255.85   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   157255.85   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   157255.85   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   157255.85   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   157255.85   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   157255.85   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   157255.85   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   157255.85   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   157255.85   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   157255.85   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   157255.85   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   157255.85   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   157255.85   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   157255.85   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   157255.85   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   157255.85   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   157255.85   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   157255.85   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   157255.85   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   157255.85   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1334479.42  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1334479.42  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1334479.42  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1334479.42  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1334479.42  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1334479.42  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1334479.42  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1334479.42  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1334479.42  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1334479.42  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1334479.42  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1334479.42  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1334479.42  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1334479.42  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1334479.42  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1334479.42  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1334479.42  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1334479.42  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1334479.42  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1334479.42  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1334479.42  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1921743.34  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1921743.34  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1921743.34  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1921743.34  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1921743.34  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1921743.34  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1921743.34  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1921743.34  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1921743.34  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1921743.34  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1921743.34  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1921743.34  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1921743.34  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1921743.34  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1921743.34  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1921743.34  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1921743.34  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1921743.34  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1921743.34  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1921743.34  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1921743.34  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  41049.23  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  41049.23  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  41049.23  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  41049.23  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  41049.23  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  41049.23  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  41049.23  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  41049.23  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  41049.23  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  41049.23  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  41049.23  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  41049.23  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  41049.23  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  41049.23  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  41049.23  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  41049.23  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  41049.23  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  41049.23  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  41049.23  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  41049.23  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  41049.23  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   952542.37   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   952542.37   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   952542.37   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   952542.37   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   952542.37   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   952542.37   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   952542.37   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   952542.37   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   952542.37   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   952542.37   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   952542.37   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   952542.37   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   952542.37   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   952542.37   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   952542.37   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   952542.37   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   952542.37   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   952542.37   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   952542.37   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   952542.37   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   952542.37   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   733365.62   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   733365.62   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   733365.62   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   733365.62   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   733365.62   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   733365.62   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   733365.62   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   733365.62   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   733365.62   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   733365.62   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   733365.62   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   733365.62   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   733365.62   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   733365.62   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   733365.62   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   733365.62   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   733365.62   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   733365.62   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   733365.62   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   733365.62   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   733365.62   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   563712.67   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   563712.67   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   563712.67   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   563712.67   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   563712.67   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   563712.67   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   563712.67   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   563712.67   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   563712.67   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   563712.67   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   563712.67   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   563712.67   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   563712.67   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   563712.67   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   563712.67   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   563712.67   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   563712.67   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   563712.67   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   563712.67   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   563712.67   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   563712.67   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   702308.31   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   702308.31   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   702308.31   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   702308.31   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   702308.31   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   702308.31   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   702308.31   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   702308.31   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   702308.31   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   702308.31   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   702308.31   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   702308.31   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   702308.31   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   702308.31   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   702308.31   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   702308.31   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   702308.31   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   702308.31   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   702308.31   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   702308.31   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   702308.31   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   718062.95   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   718062.95   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   718062.95   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   718062.95   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   718062.95   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   718062.95   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   718062.95   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   718062.95   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   718062.95   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   718062.95   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   718062.95   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   718062.95   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   718062.95   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   718062.95   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   718062.95   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   718062.95   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   718062.95   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   718062.95   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   718062.95   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   718062.95   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   718062.95   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1104326.07   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1104326.07   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1104326.07   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1104326.07   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1104326.07   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1104326.07   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1104326.07   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1104326.07   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1104326.07   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1104326.07   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1104326.07   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1104326.07   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1104326.07   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1104326.07   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1104326.07   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1104326.07   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1104326.07   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1104326.07   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1104326.07   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1104326.07   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1104326.07   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  12106.54  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  12106.54  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  12106.54  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  12106.54  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  12106.54  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  12106.54  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  12106.54  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  12106.54  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  12106.54  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  12106.54  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  12106.54  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  12106.54  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  12106.54  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  12106.54  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  12106.54  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  12106.54  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  12106.54  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  12106.54  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  12106.54  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  12106.54  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  12106.54  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   658563.36   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   658563.36   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   658563.36   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   658563.36   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   658563.36   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   658563.36   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   658563.36   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   658563.36   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   658563.36   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   658563.36   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   658563.36   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   658563.36   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   658563.36   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   658563.36   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   658563.36   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   658563.36   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   658563.36   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   658563.36   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   658563.36   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   658563.36   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   658563.36   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   687845.04   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   687845.04   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   687845.04   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   687845.04   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   687845.04   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   687845.04   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   687845.04   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   687845.04   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   687845.04   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   687845.04   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   687845.04   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   687845.04   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   687845.04   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   687845.04   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   687845.04   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   687845.04   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   687845.04   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   687845.04   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   687845.04   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   687845.04   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   687845.04   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  471154.16  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  471154.16  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  471154.16  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  471154.16  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  471154.16  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  471154.16  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  471154.16  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  471154.16  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  471154.16  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  471154.16  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  471154.16  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  471154.16  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  471154.16  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  471154.16  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  471154.16  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  471154.16  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  471154.16  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  471154.16  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  471154.16  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  471154.16  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  471154.16  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1977110.57  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1977110.57  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1977110.57  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1977110.57  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1977110.57  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1977110.57  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1977110.57  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1977110.57  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1977110.57  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1977110.57  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1977110.57  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1977110.57  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1977110.57  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1977110.57  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1977110.57  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1977110.57  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1977110.57  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1977110.57  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1977110.57  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1977110.57  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1977110.57  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1160177.56  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1160177.56  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1160177.56  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1160177.56  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1160177.56  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1160177.56  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1160177.56  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1160177.56  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1160177.56  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1160177.56  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1160177.56  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1160177.56  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1160177.56  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1160177.56  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1160177.56  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1160177.56  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1160177.56  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1160177.56  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1160177.56  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1160177.56  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1160177.56  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  372058.11  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  372058.11  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  372058.11  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  372058.11  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  372058.11  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  372058.11  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  372058.11  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  372058.11  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  372058.11  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  372058.11  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  372058.11  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  372058.11  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  372058.11  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  372058.11  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  372058.11  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  372058.11  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  372058.11  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  372058.11  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  372058.11  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  372058.11  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  372058.11  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  407086.36  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  407086.36  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  407086.36  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  407086.36  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  407086.36  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  407086.36  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  407086.36  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  407086.36  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  407086.36  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  407086.36  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  407086.36  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  407086.36  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  407086.36  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  407086.36  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  407086.36  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  407086.36  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  407086.36  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  407086.36  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  407086.36  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  407086.36  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  407086.36  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   579677.16   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   579677.16   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   579677.16   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   579677.16   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   579677.16   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   579677.16   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   579677.16   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   579677.16   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   579677.16   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   579677.16   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   579677.16   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   579677.16   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   579677.16   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   579677.16   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   579677.16   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   579677.16   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   579677.16   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   579677.16   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   579677.16   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   579677.16   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   579677.16   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   452203.39   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   452203.39   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   452203.39   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   452203.39   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   452203.39   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   452203.39   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   452203.39   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   452203.39   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   452203.39   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   452203.39   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   452203.39   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   452203.39   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   452203.39   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   452203.39   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   452203.39   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   452203.39   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   452203.39   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   452203.39   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   452203.39   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   452203.39   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   452203.39   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1977304.28  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1977304.28  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1977304.28  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1977304.28  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1977304.28  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1977304.28  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1977304.28  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1977304.28  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1977304.28  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1977304.28  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1977304.28  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1977304.28  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1977304.28  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1977304.28  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1977304.28  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1977304.28  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1977304.28  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1977304.28  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1977304.28  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1977304.28  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1977304.28  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  938127.52  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  938127.52  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  938127.52  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  938127.52  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  938127.52  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  938127.52  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  938127.52  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  938127.52  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  938127.52  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  938127.52  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  938127.52  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  938127.52  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  938127.52  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  938127.52  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  938127.52  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  938127.52  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  938127.52  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  938127.52  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  938127.52  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  938127.52  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  938127.52  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  10024.21  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  10024.21  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  10024.21  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  10024.21  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  10024.21  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  10024.21  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  10024.21  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  10024.21  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  10024.21  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  10024.21  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  10024.21  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  10024.21  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  10024.21  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  10024.21  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  10024.21  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  10024.21  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  10024.21  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  10024.21  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  10024.21  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  10024.21  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  10024.21  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1521468.93   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1521468.93   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1521468.93   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1521468.93   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1521468.93   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1521468.93   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1521468.93   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1521468.93   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1521468.93   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1521468.93   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1521468.93   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1521468.93   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1521468.93   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1521468.93   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1521468.93   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1521468.93   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1521468.93   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1521468.93   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1521468.93   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1521468.93   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1521468.93   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   458321.23   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   458321.23   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   458321.23   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   458321.23   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   458321.23   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   458321.23   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   458321.23   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   458321.23   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   458321.23   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   458321.23   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   458321.23   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   458321.23   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   458321.23   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   458321.23   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   458321.23   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   458321.23   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   458321.23   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   458321.23   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   458321.23   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   458321.23   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   458321.23   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   163874.09   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   163874.09   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   163874.09   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   163874.09   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   163874.09   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   163874.09   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   163874.09   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   163874.09   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   163874.09   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   163874.09   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   163874.09   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   163874.09   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   163874.09   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   163874.09   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   163874.09   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   163874.09   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   163874.09   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   163874.09   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   163874.09   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   163874.09   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   163874.09   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   465972.56   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   465972.56   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   465972.56   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   465972.56   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   465972.56   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   465972.56   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   465972.56   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   465972.56   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   465972.56   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   465972.56   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   465972.56   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   465972.56   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   465972.56   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   465972.56   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   465972.56   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   465972.56   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   465972.56   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   465972.56   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   465972.56   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   465972.56   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   465972.56   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1444648.91   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1444648.91   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1444648.91   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1444648.91   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1444648.91   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1444648.91   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1444648.91   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1444648.91   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1444648.91   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1444648.91   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1444648.91   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1444648.91   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1444648.91   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1444648.91   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1444648.91   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1444648.91   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1444648.91   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1444648.91   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1444648.91   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1444648.91   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1444648.91   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1069652.95   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1069652.95   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1069652.95   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1069652.95   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1069652.95   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1069652.95   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1069652.95   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1069652.95   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1069652.95   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1069652.95   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1069652.95   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1069652.95   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1069652.95   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1069652.95   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1069652.95   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1069652.95   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1069652.95   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1069652.95   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1069652.95   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1069652.95   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1069652.95   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  68135.59  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  68135.59  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  68135.59  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  68135.59  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  68135.59  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  68135.59  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  68135.59  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  68135.59  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  68135.59  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  68135.59  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  68135.59  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  68135.59  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  68135.59  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  68135.59  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  68135.59  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  68135.59  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  68135.59  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  68135.59  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  68135.59  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  68135.59  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  68135.59  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  174866.83  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  174866.83  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  174866.83  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  174866.83  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  174866.83  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  174866.83  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  174866.83  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  174866.83  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  174866.83  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  174866.83  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  174866.83  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  174866.83  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  174866.83  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  174866.83  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  174866.83  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  174866.83  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  174866.83  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  174866.83  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  174866.83  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  174866.83  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  174866.83  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   368523.0   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   368523.0   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   368523.0   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   368523.0   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   368523.0   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   368523.0   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   368523.0   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   368523.0   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   368523.0   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   368523.0   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   368523.0   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   368523.0   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   368523.0   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   368523.0   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   368523.0   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   368523.0   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   368523.0   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   368523.0   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   368523.0   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   368523.0   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   368523.0   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1113736.88   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1113736.88   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1113736.88   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1113736.88   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1113736.88   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1113736.88   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1113736.88   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1113736.88   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1113736.88   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1113736.88   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1113736.88   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1113736.88   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1113736.88   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1113736.88   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1113736.88   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1113736.88   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1113736.88   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1113736.88   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1113736.88   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1113736.88   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1113736.88   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1214624.7   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1214624.7   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1214624.7   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1214624.7   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1214624.7   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1214624.7   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1214624.7   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1214624.7   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1214624.7   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1214624.7   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1214624.7   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1214624.7   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1214624.7   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1214624.7   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1214624.7   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1214624.7   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1214624.7   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1214624.7   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1214624.7   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1214624.7   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1214624.7   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  563664.25  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  563664.25  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  563664.25  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  563664.25  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  563664.25  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  563664.25  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  563664.25  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  563664.25  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  563664.25  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  563664.25  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  563664.25  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  563664.25  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  563664.25  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  563664.25  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  563664.25  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  563664.25  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  563664.25  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  563664.25  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  563664.25  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  563664.25  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  563664.25  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1878660.21  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1878660.21  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1878660.21  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1878660.21  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1878660.21  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1878660.21  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1878660.21  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1878660.21  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1878660.21  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1878660.21  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1878660.21  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1878660.21  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1878660.21  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1878660.21  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1878660.21  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1878660.21  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1878660.21  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1878660.21  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1878660.21  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1878660.21  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1878660.21  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1440629.54  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1440629.54  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1440629.54  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1440629.54  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1440629.54  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1440629.54  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1440629.54  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1440629.54  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1440629.54  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1440629.54  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1440629.54  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1440629.54  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1440629.54  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1440629.54  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1440629.54  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1440629.54  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1440629.54  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1440629.54  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1440629.54  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1440629.54  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1440629.54  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   612348.67   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1894656.98  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1894656.98  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1894656.98  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1894656.98  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1894656.98  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1894656.98  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1894656.98  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1894656.98  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1894656.98  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1894656.98  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1894656.98  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1894656.98  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1894656.98  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1894656.98  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1894656.98  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1894656.98  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1894656.98  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1894656.98  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1894656.98  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1894656.98  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1894656.98  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  688506.86  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  688506.86  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  688506.86  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  688506.86  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  688506.86  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  688506.86  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  688506.86  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  688506.86  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  688506.86  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  688506.86  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  688506.86  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  688506.86  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  688506.86  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  688506.86  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  688506.86  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  688506.86  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  688506.86  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  688506.86  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  688506.86  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  688506.86  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  688506.86  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1224697.34   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1093656.17   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1093656.17   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1093656.17   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1093656.17   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1093656.17   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1093656.17   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1093656.17   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1093656.17   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1093656.17   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1093656.17   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1093656.17   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1093656.17   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1093656.17   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1093656.17   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1093656.17   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1093656.17   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1093656.17   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1093656.17   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1093656.17   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1093656.17   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1093656.17   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  850605.33  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  393236.48  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  393236.48  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  393236.48  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  393236.48  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  393236.48  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  393236.48  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  393236.48  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  393236.48  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  393236.48  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  393236.48  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  393236.48  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  393236.48  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  393236.48  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  393236.48  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  393236.48  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  393236.48  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  393236.48  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  393236.48  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  393236.48  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  393236.48  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  393236.48  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   73882.16   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   73882.16   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   73882.16   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   73882.16   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   73882.16   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   73882.16   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   73882.16   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   73882.16   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   73882.16   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   73882.16   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   73882.16   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   73882.16   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   73882.16   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   73882.16   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   73882.16   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   73882.16   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   73882.16   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   73882.16   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   73882.16   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   73882.16   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   73882.16   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1020726.39  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  2381694.92  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  2381694.92  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  2381694.92  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  2381694.92  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  2381694.92  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  2381694.92  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  2381694.92  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  2381694.92  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  2381694.92  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  2381694.92  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  2381694.92  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  2381694.92  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  2381694.92  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  2381694.92  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  2381694.92  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  2381694.92  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  2381694.92  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  2381694.92  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  2381694.92  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  2381694.92  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  2381694.92  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  2097901.53  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  2097901.53  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  2097901.53  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  2097901.53  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  2097901.53  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  2097901.53  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  2097901.53  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  2097901.53  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  2097901.53  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  2097901.53  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  2097901.53  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  2097901.53  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  2097901.53  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  2097901.53  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  2097901.53  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  2097901.53  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  2097901.53  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  2097901.53  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  2097901.53  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  2097901.53  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  2097901.53  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1296190.48  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1296190.48  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1296190.48  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1296190.48  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1296190.48  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1296190.48  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1296190.48  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1296190.48  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1296190.48  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1296190.48  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1296190.48  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1296190.48  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1296190.48  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1296190.48  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1296190.48  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1296190.48  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1296190.48  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1296190.48  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1296190.48  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1296190.48  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1296190.48  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  78918.48  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  78918.48  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  78918.48  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  78918.48  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  78918.48  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  78918.48  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  78918.48  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  78918.48  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  78918.48  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  78918.48  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  78918.48  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  78918.48  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  78918.48  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  78918.48  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  78918.48  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  78918.48  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  78918.48  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  78918.48  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  78918.48  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  78918.48  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  78918.48  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   270799.03   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   270799.03   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   270799.03   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   270799.03   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   270799.03   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   270799.03   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   270799.03   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   270799.03   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   270799.03   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   270799.03   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   270799.03   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   270799.03   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   270799.03   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   270799.03   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   270799.03   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   270799.03   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   270799.03   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   270799.03   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   270799.03   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   270799.03   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   270799.03   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   137288.14   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   137288.14   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   137288.14   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   137288.14   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   137288.14   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   137288.14   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   137288.14   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   137288.14   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   137288.14   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   137288.14   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   137288.14   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   137288.14   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   137288.14   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   137288.14   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   137288.14   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   137288.14   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   137288.14   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   137288.14   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   137288.14   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   137288.14   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   137288.14   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  955125.1  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  955125.1  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  955125.1  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  955125.1  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  955125.1  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  955125.1  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  955125.1  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  955125.1  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  955125.1  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  955125.1  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  955125.1  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  955125.1  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  955125.1  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  955125.1  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  955125.1  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  955125.1  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  955125.1  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  955125.1  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  955125.1  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  955125.1  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  955125.1  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  251896.69  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  251896.69  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  251896.69  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  251896.69  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  251896.69  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  251896.69  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  251896.69  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  251896.69  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  251896.69  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  251896.69  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  251896.69  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  251896.69  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  251896.69  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  251896.69  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  251896.69  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  251896.69  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  251896.69  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  251896.69  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  251896.69  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  251896.69  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  251896.69  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1010524.62  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1010524.62  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1010524.62  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1010524.62  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1010524.62  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1010524.62  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1010524.62  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1010524.62  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1010524.62  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1010524.62  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1010524.62  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1010524.62  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1010524.62  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1010524.62  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1010524.62  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1010524.62  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1010524.62  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1010524.62  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1010524.62  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1010524.62  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1010524.62  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  933785.31  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  933785.31  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  933785.31  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  933785.31  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  933785.31  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  933785.31  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  933785.31  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  933785.31  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  933785.31  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  933785.31  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  933785.31  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  933785.31  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  933785.31  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  933785.31  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  933785.31  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  933785.31  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  933785.31  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  933785.31  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  933785.31  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  933785.31  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  933785.31  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  510363.2  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1432187.25   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1432187.25   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1432187.25   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1432187.25   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1432187.25   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1432187.25   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1432187.25   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1432187.25   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1432187.25   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1432187.25   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1432187.25   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1432187.25   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1432187.25   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1432187.25   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1432187.25   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1432187.25   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1432187.25   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1432187.25   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1432187.25   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1432187.25   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1432187.25   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1136368.04   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1136368.04   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1136368.04   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1136368.04   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1136368.04   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1136368.04   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1136368.04   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1136368.04   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1136368.04   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1136368.04   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1136368.04   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1136368.04   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1136368.04   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1136368.04   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1136368.04   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1136368.04   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1136368.04   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1136368.04   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1136368.04   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1136368.04   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1136368.04   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  680484.26  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  317191.28  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  317191.28  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  317191.28  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  317191.28  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  317191.28  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  317191.28  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  317191.28  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  317191.28  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  317191.28  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  317191.28  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  317191.28  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  317191.28  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  317191.28  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  317191.28  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  317191.28  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  317191.28  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  317191.28  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  317191.28  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  317191.28  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  317191.28  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  317191.28  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  544745.76  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  544745.76  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  544745.76  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  544745.76  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  544745.76  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  544745.76  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  544745.76  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  544745.76  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  544745.76  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  544745.76  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  544745.76  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  544745.76  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  544745.76  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  544745.76  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  544745.76  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  544745.76  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  544745.76  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  544745.76  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  544745.76  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  544745.76  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  544745.76  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  677255.85  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  677255.85  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  677255.85  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  677255.85  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  677255.85  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  677255.85  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  677255.85  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  677255.85  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  677255.85  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  677255.85  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  677255.85  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  677255.85  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  677255.85  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  677255.85  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  677255.85  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  677255.85  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  677255.85  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  677255.85  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  677255.85  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  677255.85  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  677255.85  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   680387.41   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  397885.39  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  397885.39  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  397885.39  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  397885.39  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  397885.39  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  397885.39  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  397885.39  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  397885.39  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  397885.39  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  397885.39  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  397885.39  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  397885.39  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  397885.39  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  397885.39  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  397885.39  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  397885.39  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  397885.39  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  397885.39  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  397885.39  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  397885.39  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  397885.39  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  461049.23  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  461049.23  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  461049.23  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  461049.23  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  461049.23  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  461049.23  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  461049.23  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  461049.23  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  461049.23  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  461049.23  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  461049.23  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  461049.23  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  461049.23  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  461049.23  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  461049.23  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  461049.23  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  461049.23  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  461049.23  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  461049.23  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  461049.23  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  461049.23  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  451121.87  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  451121.87  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  451121.87  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  451121.87  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  451121.87  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  451121.87  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  451121.87  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  451121.87  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  451121.87  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  451121.87  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  451121.87  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  451121.87  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  451121.87  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  451121.87  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  451121.87  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  451121.87  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  451121.87  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  451121.87  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  451121.87  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  451121.87  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  451121.87  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1113817.59  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1113817.59  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1113817.59  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1113817.59  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1113817.59  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1113817.59  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1113817.59  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1113817.59  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1113817.59  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1113817.59  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1113817.59  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1113817.59  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1113817.59  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1113817.59  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1113817.59  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1113817.59  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1113817.59  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1113817.59  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1113817.59  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1113817.59  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1113817.59  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   94737.69   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   94737.69   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   94737.69   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   94737.69   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   94737.69   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   94737.69   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   94737.69   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   94737.69   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   94737.69   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   94737.69   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   94737.69   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   94737.69   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   94737.69   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   94737.69   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   94737.69   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   94737.69   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   94737.69   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   94737.69   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   94737.69   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   94737.69   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   94737.69   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   805762.71   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   805762.71   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   805762.71   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   805762.71   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   805762.71   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   805762.71   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   805762.71   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   805762.71   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   805762.71   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   805762.71   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   805762.71   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   805762.71   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   805762.71   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   805762.71   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   805762.71   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   805762.71   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   805762.71   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   805762.71   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   805762.71   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   805762.71   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   805762.71   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1327828.89   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1327828.89   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1327828.89   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1327828.89   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1327828.89   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1327828.89   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1327828.89   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1327828.89   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1327828.89   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1327828.89   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1327828.89   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1327828.89   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1327828.89   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1327828.89   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1327828.89   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1327828.89   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1327828.89   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1327828.89   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1327828.89   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1327828.89   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1327828.89   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   827780.47   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   827780.47   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   827780.47   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   827780.47   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   827780.47   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   827780.47   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   827780.47   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   827780.47   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   827780.47   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   827780.47   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   827780.47   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   827780.47   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   827780.47   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   827780.47   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   827780.47   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   827780.47   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   827780.47   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   827780.47   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   827780.47   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   827780.47   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   827780.47   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   418805.49   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   418805.49   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   418805.49   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   418805.49   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   418805.49   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   418805.49   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   418805.49   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   418805.49   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   418805.49   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   418805.49   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   418805.49   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   418805.49   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   418805.49   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   418805.49   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   418805.49   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   418805.49   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   418805.49   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   418805.49   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   418805.49   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   418805.49   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   418805.49   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  534511.7  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  534511.7  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  534511.7  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  534511.7  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  534511.7  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  534511.7  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  534511.7  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  534511.7  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  534511.7  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  534511.7  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  534511.7  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  534511.7  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  534511.7  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  534511.7  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  534511.7  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  534511.7  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  534511.7  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  534511.7  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  534511.7  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  534511.7  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  534511.7  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  2161436.64  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  2161436.64  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  2161436.64  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  2161436.64  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  2161436.64  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  2161436.64  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  2161436.64  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  2161436.64  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  2161436.64  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  2161436.64  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  2161436.64  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  2161436.64  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  2161436.64  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  2161436.64  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  2161436.64  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  2161436.64  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  2161436.64  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  2161436.64  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  2161436.64  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  2161436.64  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  2161436.64  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  2041452.78  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  2041452.78  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  2041452.78  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  2041452.78  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  2041452.78  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  2041452.78  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  2041452.78  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  2041452.78  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  2041452.78  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  2041452.78  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  2041452.78  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  2041452.78  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  2041452.78  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  2041452.78  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  2041452.78  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  2041452.78  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  2041452.78  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  2041452.78  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  2041452.78  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  2041452.78  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  2041452.78  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   25423.73   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   25423.73   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   25423.73   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   25423.73   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   25423.73   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   25423.73   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   25423.73   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   25423.73   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   25423.73   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   25423.73   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   25423.73   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   25423.73   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   25423.73   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   25423.73   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   25423.73   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   25423.73   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   25423.73   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   25423.73   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   25423.73   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   25423.73   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   25423.73   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  122921.71  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  122921.71  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  122921.71  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  122921.71  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  122921.71  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  122921.71  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  122921.71  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  122921.71  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  122921.71  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  122921.71  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  122921.71  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  122921.71  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  122921.71  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  122921.71  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  122921.71  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  122921.71  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  122921.71  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  122921.71  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  122921.71  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  122921.71  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  122921.71  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   611331.72   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   611331.72   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   611331.72   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   611331.72   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   611331.72   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   611331.72   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   611331.72   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   611331.72   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   611331.72   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   611331.72   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   611331.72   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   611331.72   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   611331.72   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   611331.72   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   611331.72   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   611331.72   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   611331.72   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   611331.72   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   611331.72   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   611331.72   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   611331.72   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1351170.3   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1351170.3   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1351170.3   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1351170.3   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1351170.3   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1351170.3   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1351170.3   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1351170.3   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1351170.3   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1351170.3   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1351170.3   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1351170.3   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1351170.3   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1351170.3   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1351170.3   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1351170.3   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1351170.3   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1351170.3   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1351170.3   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1351170.3   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1351170.3   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1632929.78   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1088619.85   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  173317.19  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  173317.19  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  173317.19  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  173317.19  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  173317.19  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  173317.19  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  173317.19  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  173317.19  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  173317.19  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  173317.19  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  173317.19  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  173317.19  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  173317.19  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  173317.19  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  173317.19  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  173317.19  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  173317.19  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  173317.19  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  173317.19  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  173317.19  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  173317.19  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   264971.75   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   264971.75   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   264971.75   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   264971.75   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   264971.75   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   264971.75   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   264971.75   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   264971.75   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   264971.75   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   264971.75   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   264971.75   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   264971.75   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   264971.75   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   264971.75   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   264971.75   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   264971.75   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   264971.75   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   264971.75   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   264971.75   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   264971.75   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   264971.75   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   351138.01   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   351138.01   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   351138.01   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   351138.01   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   351138.01   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   351138.01   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   351138.01   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   351138.01   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   351138.01   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   351138.01   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   351138.01   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   351138.01   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   351138.01   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   351138.01   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   351138.01   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   351138.01   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   351138.01   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   351138.01   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   351138.01   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   351138.01   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   351138.01   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1156658.6   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1632865.21   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1632865.21   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1632865.21   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1632865.21   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1632865.21   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1632865.21   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1632865.21   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1632865.21   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1632865.21   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1632865.21   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1632865.21   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1632865.21   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1632865.21   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1632865.21   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1632865.21   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1632865.21   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1632865.21   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1632865.21   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1632865.21   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1632865.21   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1632865.21   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   978127.52   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   978127.52   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   978127.52   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   978127.52   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   978127.52   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   978127.52   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   978127.52   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   978127.52   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   978127.52   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   978127.52   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   978127.52   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   978127.52   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   978127.52   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   978127.52   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   978127.52   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   978127.52   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   978127.52   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   978127.52   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   978127.52   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   978127.52   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   978127.52   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   544309.93   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  270476.19  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  270476.19  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  270476.19  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  270476.19  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  270476.19  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  270476.19  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  270476.19  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  270476.19  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  270476.19  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  270476.19  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  270476.19  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  270476.19  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  270476.19  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  270476.19  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  270476.19  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  270476.19  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  270476.19  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  270476.19  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  270476.19  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  270476.19  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  270476.19  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   25891.85   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   25891.85   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   25891.85   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   25891.85   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   25891.85   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   25891.85   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   25891.85   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   25891.85   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   25891.85   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   25891.85   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   25891.85   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   25891.85   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   25891.85   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   25891.85   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   25891.85   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   25891.85   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   25891.85   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   25891.85   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   25891.85   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   25891.85   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   25891.85   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   237078.29   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   237078.29   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   237078.29   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   237078.29   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   237078.29   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   237078.29   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   237078.29   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   237078.29   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   237078.29   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   237078.29   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   237078.29   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   237078.29   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   237078.29   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   237078.29   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   237078.29   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   237078.29   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   237078.29   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   237078.29   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   237078.29   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   237078.29   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   237078.29   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   7441.49   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   7441.49   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   7441.49   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   7441.49   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   7441.49   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   7441.49   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   7441.49   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   7441.49   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   7441.49   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   7441.49   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   7441.49   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   7441.49   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   7441.49   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   7441.49   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   7441.49   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   7441.49   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   7441.49   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   7441.49   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   7441.49   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   7441.49   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   7441.49   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  793720.74  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  793720.74  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  793720.74  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  793720.74  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  793720.74  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  793720.74  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  793720.74  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  793720.74  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  793720.74  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  793720.74  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  793720.74  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  793720.74  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  793720.74  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  793720.74  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  793720.74  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  793720.74  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  793720.74  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  793720.74  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  793720.74  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  793720.74  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  793720.74  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1922163.03  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1922163.03  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1922163.03  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1922163.03  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1922163.03  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1922163.03  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1922163.03  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1922163.03  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1922163.03  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1922163.03  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1922163.03  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1922163.03  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1922163.03  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1922163.03  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1922163.03  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1922163.03  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1922163.03  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1922163.03  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1922163.03  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1922163.03  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1922163.03  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1047667.47  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1047667.47  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1047667.47  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1047667.47  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1047667.47  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1047667.47  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1047667.47  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1047667.47  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1047667.47  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1047667.47  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1047667.47  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1047667.47  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1047667.47  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1047667.47  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1047667.47  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1047667.47  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1047667.47  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1047667.47  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1047667.47  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1047667.47  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1047667.47  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  238966.91  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  238966.91  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  238966.91  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  238966.91  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  238966.91  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  238966.91  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  238966.91  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  238966.91  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  238966.91  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  238966.91  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  238966.91  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  238966.91  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  238966.91  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  238966.91  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  238966.91  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  238966.91  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  238966.91  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  238966.91  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  238966.91  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  238966.91  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  238966.91  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  194398.71  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  194398.71  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  194398.71  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  194398.71  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  194398.71  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  194398.71  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  194398.71  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  194398.71  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  194398.71  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  194398.71  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  194398.71  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  194398.71  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  194398.71  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  194398.71  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  194398.71  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  194398.71  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  194398.71  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  194398.71  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  194398.71  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  194398.71  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  194398.71  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  170121.07  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   52332.53   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   52332.53   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   52332.53   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   52332.53   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   52332.53   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   52332.53   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   52332.53   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   52332.53   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   52332.53   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   52332.53   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   52332.53   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   52332.53   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   52332.53   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   52332.53   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   52332.53   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   52332.53   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   52332.53   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   52332.53   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   52332.53   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   52332.53   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   52332.53   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   270201.78   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   270201.78   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   270201.78   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   270201.78   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   270201.78   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   270201.78   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   270201.78   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   270201.78   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   270201.78   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   270201.78   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   270201.78   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   270201.78   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   270201.78   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   270201.78   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   270201.78   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   270201.78   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   270201.78   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   270201.78   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   270201.78   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   270201.78   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   270201.78   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   471638.42   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   471638.42   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   471638.42   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   471638.42   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   471638.42   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   471638.42   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   471638.42   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   471638.42   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   471638.42   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   471638.42   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   471638.42   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   471638.42   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   471638.42   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   471638.42   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   471638.42   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   471638.42   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   471638.42   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   471638.42   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   471638.42   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   471638.42   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   471638.42   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   885746.57   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   885746.57   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   885746.57   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   885746.57   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   885746.57   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   885746.57   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   885746.57   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   885746.57   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   885746.57   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   885746.57   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   885746.57   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   885746.57   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   885746.57   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   885746.57   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   885746.57   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   885746.57   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   885746.57   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   885746.57   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   885746.57   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   885746.57   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   885746.57   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   315125.1   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   315125.1   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   315125.1   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   315125.1   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   315125.1   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   315125.1   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   315125.1   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   315125.1   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   315125.1   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   315125.1   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   315125.1   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   315125.1   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   315125.1   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   315125.1   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   315125.1   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   315125.1   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   315125.1   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   315125.1   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   315125.1   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   315125.1   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   315125.1   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   582243.74   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   582243.74   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   582243.74   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   582243.74   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   582243.74   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   582243.74   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   582243.74   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   582243.74   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   582243.74   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   582243.74   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   582243.74   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   582243.74   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   582243.74   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   582243.74   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   582243.74   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   582243.74   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   582243.74   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   582243.74   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   582243.74   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   582243.74   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   582243.74   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   117982.24   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   117982.24   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   117982.24   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   117982.24   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   117982.24   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   117982.24   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   117982.24   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   117982.24   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   117982.24   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   117982.24   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   117982.24   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   117982.24   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   117982.24   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   117982.24   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   117982.24   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   117982.24   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   117982.24   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   117982.24   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   117982.24   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   117982.24   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   117982.24   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   9975.79   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   9975.79   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   9975.79   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   9975.79   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   9975.79   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   9975.79   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   9975.79   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   9975.79   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   9975.79   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   9975.79   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   9975.79   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   9975.79   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   9975.79   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   9975.79   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   9975.79   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   9975.79   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   9975.79   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   9975.79   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   9975.79   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   9975.79   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   9975.79   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  9636.8  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  9636.8  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  9636.8  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  9636.8  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  9636.8  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  9636.8  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  9636.8  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  9636.8  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  9636.8  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  9636.8  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  9636.8  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  9636.8  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  9636.8  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  9636.8  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  9636.8  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  9636.8  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  9636.8  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  9636.8  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  9636.8  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  9636.8  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  9636.8  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   210104.92   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   210104.92   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   210104.92   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   210104.92   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   210104.92   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   210104.92   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   210104.92   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   210104.92   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   210104.92   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   210104.92   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   210104.92   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   210104.92   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   210104.92   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   210104.92   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   210104.92   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   210104.92   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   210104.92   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   210104.92   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   210104.92   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   210104.92   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   210104.92   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   340193.7   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   340193.7   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   340193.7   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   340193.7   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   340193.7   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   340193.7   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   340193.7   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   340193.7   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   340193.7   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   340193.7   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   340193.7   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   340193.7   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   340193.7   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   340193.7   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   340193.7   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   340193.7   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   340193.7   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   340193.7   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   340193.7   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   340193.7   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   340193.7   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   315883.78   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   315883.78   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   315883.78   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   315883.78   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   315883.78   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   315883.78   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   315883.78   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   315883.78   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   315883.78   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   315883.78   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   315883.78   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   315883.78   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   315883.78   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   315883.78   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   315883.78   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   315883.78   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   315883.78   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   315883.78   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   315883.78   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   315883.78   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   315883.78   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   204116.22   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   204116.22   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   204116.22   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   204116.22   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   204116.22   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   204116.22   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   204116.22   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   204116.22   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   204116.22   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   204116.22   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   204116.22   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   204116.22   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   204116.22   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   204116.22   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   204116.22   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   204116.22   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   204116.22   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   204116.22   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   204116.22   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   204116.22   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   204116.22   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   328361.58   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   328361.58   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   328361.58   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   328361.58   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   328361.58   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   328361.58   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   328361.58   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   328361.58   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   328361.58   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   328361.58   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   328361.58   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   328361.58   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   328361.58   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   328361.58   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   328361.58   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   328361.58   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   328361.58   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   328361.58   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   328361.58   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   328361.58   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   328361.58   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  20080.71  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  20080.71  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  20080.71  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  20080.71  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  20080.71  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  20080.71  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  20080.71  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  20080.71  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  20080.71  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  20080.71  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  20080.71  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  20080.71  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  20080.71  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  20080.71  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  20080.71  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  20080.71  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  20080.71  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  20080.71  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  20080.71  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  20080.71  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  20080.71  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   20080.71   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   20080.71   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   20080.71   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   20080.71   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   20080.71   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   20080.71   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   20080.71   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   20080.71   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   20080.71   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   20080.71   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   20080.71   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   20080.71   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   20080.71   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   20080.71   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   20080.71   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   20080.71   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   20080.71   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   20080.71   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   20080.71   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   20080.71   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   20080.71   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1141824.05  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1141824.05  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1141824.05  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1141824.05  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1141824.05  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1141824.05  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1141824.05  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1141824.05  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1141824.05  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1141824.05  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1141824.05  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1141824.05  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1141824.05  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1141824.05  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1141824.05  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1141824.05  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1141824.05  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1141824.05  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1141824.05  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1141824.05  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1141824.05  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  377175.14  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  377175.14  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  377175.14  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  377175.14  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  377175.14  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  377175.14  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  377175.14  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  377175.14  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  377175.14  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  377175.14  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  377175.14  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  377175.14  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  377175.14  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  377175.14  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  377175.14  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  377175.14  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  377175.14  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  377175.14  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  377175.14  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  377175.14  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  377175.14  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  6569.81  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  6569.81  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  6569.81  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  6569.81  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  6569.81  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  6569.81  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  6569.81  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  6569.81  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  6569.81  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  6569.81  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  6569.81  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  6569.81  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  6569.81  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  6569.81  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  6569.81  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  6569.81  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  6569.81  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  6569.81  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  6569.81  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  6569.81  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  6569.81  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1330976.59  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1330976.59  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1330976.59  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1330976.59  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1330976.59  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1330976.59  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1330976.59  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1330976.59  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1330976.59  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1330976.59  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1330976.59  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1330976.59  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1330976.59  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1330976.59  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1330976.59  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1330976.59  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1330976.59  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1330976.59  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1330976.59  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1330976.59  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1330976.59  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1657126.72  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1657126.72  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1657126.72  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1657126.72  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1657126.72  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1657126.72  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1657126.72  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1657126.72  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1657126.72  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1657126.72  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1657126.72  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1657126.72  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1657126.72  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1657126.72  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1657126.72  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1657126.72  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1657126.72  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1657126.72  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1657126.72  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1657126.72  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1657126.72  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  1378321.23  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  1378321.23  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  1378321.23  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  1378321.23  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  1378321.23  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  1378321.23  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  1378321.23  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  1378321.23  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  1378321.23  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  1378321.23  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  1378321.23  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  1378321.23  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  1378321.23  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  1378321.23  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  1378321.23  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  1378321.23  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  1378321.23  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  1378321.23  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  1378321.23  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  1378321.23  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  1378321.23  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  2041113.8  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  2041113.8  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  2041113.8  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  2041113.8  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  2041113.8  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  2041113.8  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  2041113.8  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  2041113.8  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  2041113.8  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  2041113.8  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  2041113.8  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  2041113.8  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  2041113.8  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  2041113.8  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  2041113.8  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  2041113.8  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  2041113.8  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  2041113.8  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  2041113.8  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  2041113.8  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  2041113.8  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONPROD
+    WELL_C 'OPEN' 'GRAT'  2*  2014205.0  2* 80 /
+    WELL_1 'OPEN' 'GRAT'  2*  2014205.0  2* 80 /
+    WELL_2 'OPEN' 'GRAT'  2*  2014205.0  2* 80 /
+    WELL_3 'OPEN' 'GRAT'  2*  2014205.0  2* 80 /
+    WELL_4 'OPEN' 'GRAT'  2*  2014205.0  2* 80 /
+    WELL_5 'OPEN' 'GRAT'  2*  2014205.0  2* 80 /
+    WELL_6 'OPEN' 'GRAT'  2*  2014205.0  2* 80 /
+    WELL_7 'OPEN' 'GRAT'  2*  2014205.0  2* 80 /
+    WELL_8 'OPEN' 'GRAT'  2*  2014205.0  2* 80 /
+    WELL_9 'OPEN' 'GRAT'  2*  2014205.0  2* 80 /
+    WELL_10 'OPEN' 'GRAT'  2*  2014205.0  2* 80 /
+    WELL_11 'OPEN' 'GRAT'  2*  2014205.0  2* 80 /
+    WELL_12 'OPEN' 'GRAT'  2*  2014205.0  2* 80 /
+    WELL_13 'OPEN' 'GRAT'  2*  2014205.0  2* 80 /
+    WELL_14 'OPEN' 'GRAT'  2*  2014205.0  2* 80 /
+    WELL_15 'OPEN' 'GRAT'  2*  2014205.0  2* 80 /
+    WELL_16 'OPEN' 'GRAT'  2*  2014205.0  2* 80 /
+    WELL_17 'OPEN' 'GRAT'  2*  2014205.0  2* 80 /
+    WELL_18 'OPEN' 'GRAT'  2*  2014205.0  2* 80 /
+    WELL_19 'OPEN' 'GRAT'  2*  2014205.0  2* 80 /
+    WELL_20 'OPEN' 'GRAT'  2*  2014205.0  2* 80 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   155334.95   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   155334.95   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   155334.95   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   155334.95   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   155334.95   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   155334.95   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   155334.95   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   155334.95   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   155334.95   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   155334.95   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   155334.95   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   155334.95   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   155334.95   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   155334.95   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   155334.95   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   155334.95   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   155334.95   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   155334.95   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   155334.95   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   155334.95   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   155334.95   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1181146.09   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1181146.09   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1181146.09   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1181146.09   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1181146.09   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1181146.09   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1181146.09   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1181146.09   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1181146.09   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1181146.09   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1181146.09   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1181146.09   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1181146.09   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1181146.09   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1181146.09   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1181146.09   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1181146.09   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1181146.09   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1181146.09   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1181146.09   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1181146.09   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   15803.07   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   15803.07   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   15803.07   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   15803.07   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   15803.07   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   15803.07   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   15803.07   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   15803.07   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   15803.07   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   15803.07   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   15803.07   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   15803.07   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   15803.07   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   15803.07   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   15803.07   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   15803.07   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   15803.07   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   15803.07   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   15803.07   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   15803.07   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   15803.07   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1070750.61   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1070750.61   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1070750.61   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1070750.61   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1070750.61   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1070750.61   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1070750.61   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1070750.61   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1070750.61   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1070750.61   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1070750.61   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1070750.61   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1070750.61   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1070750.61   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1070750.61   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1070750.61   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1070750.61   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1070750.61   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1070750.61   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1070750.61   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1070750.61   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1025682.0   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1025682.0   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1025682.0   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1025682.0   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1025682.0   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1025682.0   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1025682.0   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1025682.0   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1025682.0   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1025682.0   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1025682.0   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1025682.0   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1025682.0   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1025682.0   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1025682.0   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1025682.0   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1025682.0   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1025682.0   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1025682.0   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1025682.0   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1025682.0   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   63841.81   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   63841.81   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   63841.81   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   63841.81   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   63841.81   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   63841.81   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   63841.81   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   63841.81   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   63841.81   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   63841.81   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   63841.81   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   63841.81   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   63841.81   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   63841.81   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   63841.81   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   63841.81   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   63841.81   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   63841.81   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   63841.81   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   63841.81   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   63841.81   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   15221.95   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   15221.95   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   15221.95   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   15221.95   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   15221.95   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   15221.95   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   15221.95   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   15221.95   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   15221.95   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   15221.95   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   15221.95   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   15221.95   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   15221.95   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   15221.95   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   15221.95   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   15221.95   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   15221.95   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   15221.95   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   15221.95   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   15221.95   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   15221.95   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   272154.96   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   68038.74   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   872929.78   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   872929.78   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   872929.78   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   872929.78   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   872929.78   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   872929.78   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   872929.78   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   872929.78   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   872929.78   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   872929.78   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   872929.78   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   872929.78   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   872929.78   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   872929.78   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   872929.78   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   872929.78   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   872929.78   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   872929.78   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   872929.78   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   872929.78   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   872929.78   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1550443.91   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1550443.91   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1550443.91   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1550443.91   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1550443.91   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1550443.91   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1550443.91   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1550443.91   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1550443.91   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1550443.91   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1550443.91   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1550443.91   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1550443.91   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1550443.91   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1550443.91   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1550443.91   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1550443.91   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1550443.91   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1550443.91   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1550443.91   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1550443.91   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   980903.95   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   980903.95   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   980903.95   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   980903.95   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   980903.95   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   980903.95   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   980903.95   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   980903.95   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   980903.95   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   980903.95   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   980903.95   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   980903.95   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   980903.95   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   980903.95   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   980903.95   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   980903.95   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   980903.95   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   980903.95   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   980903.95   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   980903.95   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   980903.95   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   136077.48   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   136077.48   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   136077.48   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   136077.48   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   136077.48   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   136077.48   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   136077.48   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   136077.48   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   136077.48   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   136077.48   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   136077.48   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   136077.48   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   136077.48   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   136077.48   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   136077.48   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   136077.48   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   136077.48   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   136077.48   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   136077.48   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   136077.48   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   136077.48   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   1397853.11   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   1397853.11   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   1397853.11   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   1397853.11   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   1397853.11   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   1397853.11   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   1397853.11   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   1397853.11   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   1397853.11   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   1397853.11   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   1397853.11   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   1397853.11   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   1397853.11   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   1397853.11   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   1397853.11   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   1397853.11   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   1397853.11   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   1397853.11   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   1397853.11   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   1397853.11   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   1397853.11   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'   297352.7   1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'   297352.7   1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'   297352.7   1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'   297352.7   1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'   297352.7   1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'   297352.7   1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'   297352.7   1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'   297352.7   1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'   297352.7   1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'   297352.7   1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'   297352.7   1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'   297352.7   1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'   297352.7   1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'   297352.7   1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'   297352.7   1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'   297352.7   1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'   297352.7   1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'   297352.7   1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'   297352.7   1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'   297352.7   1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'   297352.7   1* 130 /
+/
+TSTEP 
+ 1*1 /
+
+WCONINJE
+    WELL_C 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_1 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_2 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_3 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_4 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_5 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_6 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_7 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_8 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_9 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_10 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_11 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_12 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_13 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_14 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_15 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_16 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_17 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_18 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_19 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+    WELL_20 'GAS'	'OPEN'	'RATE'  0.0  1* 130 /
+/
+TSTEP 
+ 1*1 /
+
