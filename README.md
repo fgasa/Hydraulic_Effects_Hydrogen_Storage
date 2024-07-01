@@ -13,21 +13,18 @@ Energy system scenarios are developed within the ANGUS project, and detailed doc
 |2050a|2050NB  |100                |150                       |10.7                |
 |2050b|2050REF |100                |150                       |5.5                 |
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="figures/energy_system_load_profiles.png" style="background-color:#808080">
-  <source media="(prefers-color-scheme: light)" srcset="figures/energy_system_load_profiles.png">
-  <img alt="Load profiles" src="figures/energy_system_load_profiles.png" style="background-color:#ffffff">
-</picture>
+
+<p align="center">
+<img src="figures/energy_system_load_profiles.png" alt="Load profiles" width="100%" style="background-color:#ffffff">
+</p>
 
 # Geological storage model
 
 The storage model is built on the existing Eckhorst anticline structure in the Eastholstein block, within the Rhaetian (Upper Keuper) porous formation at a depth of about 1 km. Formation permeability and porosity are derived from regional depth correlations, while boundary conditions are applied considering the local geological settings. The reservoir model assumes immiscible two-phase flow of water and gas, with fluid properties derived from the CoolProp library and modelled as black oil model type. Brooks-Corey formulations are employed for phase permeabilities and capillary pressure modelling. The extended model boundary is represented using the large pore volume technique with an initial gas in place volume (GIP) of 2.8×10<sup>9</sup> sm<sup>3</sup>.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="figures/eckhorst_storage_model_GWC.png" style="background-color:#808080">
-  <source media="(prefers-color-scheme: light)" srcset="figures/eckhorst_storage_model_GWC.png">
-  <img alt="Storage setup" src="figures/eckhorst_storage_model_GWC.png" style="background-color:#ffffff">
-</picture>
+<p align="center">
+<img src="figures/eckhorst_storage_model_GWC.png" alt="Storage setup" width="100%" style="background-color:#ffffff">
+</p>
 
 The storage build-up phase is not considered in the simulation; instead, the initial condition is established by setting the gas–water contact. This configuration sets the starting conditions for the cyclic  storage simulations and serves as the basis for analysing the induced hydraulic effects. To reach equilibrium, a spin-up simulation with uniform injection and withdrawal patterns is used. 21 vertical wells are placed at the top of the anticline structure, with equal spacing between them, to maintain consistent rates for all scenarios and ensure a unique comparison.
 
@@ -36,12 +33,9 @@ The porous media storage facility fully supports the required power rates for th
 
 Frequent utilisation of the storage facility is observed in scenario 2050a, characterised by a high share of renewables (up to 100%) and the absence of biomass installations in Germany. A high CO<sub>2</sub> emission price (>126 EUR/t), combined with a high share of renewable energy sources (>90%) and the exclusion of biomass, significantly increases the demand for hydrogen storage on a TWh scale.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="figures/rst_Pressure_WBHP.png" style="background-color:#808080">
-  <source media="(prefers-color-scheme: light)" srcset="figures/rst_Pressure_WBHP.png">
-  <img alt="Pressure signals" src="figures/rst_Pressure_WBHP.png" style="background-color:#ffffff">
-</picture>
-
+<p align="center">
+<img src="figures/rst_Pressure_WBHP.png" alt="Pressure signals" width="100%" style="background-color:#ffffff">
+</p>
 
 Scenario analysis indicates that significant pressure responses are induced at the well bottom hole, constrained within a geomechanically allowable range of 80 to 130 bars. Due to the high withdrawal rates required, the storage design is primarily influenced by the lower pressure limit. In the far field, pressure responses exceeding 3 bars and 5 bars are detected within horizontal distances of up to 7.5 km and 5 km, respectively. The vertical pressure impact is much lower, at 5 m and 20 m, respectively. This translates to an impacted volume of 1.25×10<sup>9</sup> m<sup>3</sup> to 4.63×10⁹ m<sup>3</sup> at 3 bars, and 0.57×10<sup>9</sup> m<sup>3</sup> to 1.10×10<sup>9</sup> m<sup>3</sup> at 5 bars, depending on the scenario.
 
